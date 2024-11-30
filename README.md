@@ -3,6 +3,6 @@
 - Hannarong
    - Dell
 
-![me](img/me.png)
+![me](img/me.png.J)
 
 [AUTHENTICATION]
