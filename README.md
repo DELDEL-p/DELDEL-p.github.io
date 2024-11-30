@@ -1,7 +1,7 @@
 # DELDEL-p.github.io
 
--Hannarong 
- -Dell
+- Hannarong 
+ - Dell
 
 ![me](me.png.JPG)
 
