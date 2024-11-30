@@ -13,5 +13,11 @@
 
 #### [6530250280 นายหาญณรงค์ สุภาพันธ์](https://deldel-p.github.io)
 #### [6530250204 นายภูริพัฒน์ สมิทธิ์เบญจพล](https://poohri5551.github.io)
-#### [6530250280 นายหาญณรงค์ สุภาพันธ์](https://deldel-p.github.io){: .btn .btn-blue }
-#### [6530250204 นายภูริพัฒน์ สมิทธิ์เบญจพล](https://poohri5551.github.io){: .btn .btn-green }
+
+### <div style="border: 2px solid #007acc; padding: 10px; border-radius: 8px; margin-bottom: 10px;">
+[6530250280 นายหาญณรงค์ สุภาพันธ์](https://deldel-p.github.io)
+</div>
+
+#### <div style="border: 2px solid #28a745; padding: 10px; border-radius: 8px; margin-bottom: 10px;">
+[6530250204 นายภูริพัฒน์ สมิทธิ์เบญจพล](https://poohri5551.github.io)
+</div>
