@@ -3,7 +3,7 @@
 - Hannarong 
   - Dell
 
-![me](pic/me.png.JPG)
+![me](pic/me.JPG)
 
 ---
 
