@@ -7,7 +7,7 @@
 
 ---
 
-## [ความหมายของคำว่า "Use Cases"](usecases.md)
+## [ความหมายของคำว่า "Use Cases"](use-cases.md)
 
 
 
