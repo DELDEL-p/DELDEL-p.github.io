@@ -24,3 +24,7 @@
 ---
 
 ## [Security requirement](security-requirement)
+
+---
+
+## [2025 Pao Election](2025-pao-election)
