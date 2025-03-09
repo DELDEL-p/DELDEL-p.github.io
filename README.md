@@ -31,4 +31,4 @@
 
 ---
 
-## [Cyber board game by Smek Nah Moan](ฺboard-game)
+## [Cyber board game by Smek Nah Moan](board-game)
