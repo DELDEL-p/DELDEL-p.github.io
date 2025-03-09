@@ -1,6 +1,6 @@
 # Hello world
 
-- Hannarong 
+- Hannarong Supapun
   - Dell
 
 ![me](pic/me.JPG)
@@ -31,4 +31,4 @@
 
 ---
 
-## [Cyber board game by Smek Nah Moan](ฺBoard-Game)
+## [Cyber board game by Smek Nah Moan](ฺboard-game)
